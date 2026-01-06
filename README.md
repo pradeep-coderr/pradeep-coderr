@@ -1,104 +1,97 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=220&section=header&text=Pradeep%20Pudasaini&fontSize=65&animation=fadeIn&fontAlign=50" />
-</p>
-
 <div align="center">
-  <h3>🚀 Junior Frontend Engineer @ Resimator</h3>
-  <p><strong>Building scalable Web & Mobile interfaces for the NUMU POS Ecosystem.</strong></p>
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=180&section=header&text=Pradeep%20Pudasaini&fontSize=50&animation=fadeIn&fontAlign=50" width="100%" />
+  
+  <h1>👋 Hi, I’m Pradeep Pudasaini</h1>
+  <h3>Junior Frontend Engineer @ Resimator</h3>
+  <p><strong>Building the NUMU POS Ecosystem | React & React Native Specialist</strong></p>
 
-  <p>
-    <a href="https://www.linkedin.com/in/pradeep-pudasaini-7691b12b6/">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:pradeeppudasaini49@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://x.com/pradeeppud71669">
-      <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
-    </a>
-  </p>
-</div>
-
----
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pradeep-coderr&theme=radical&no-frame=true&margin-w=15&row=1&column=7" />
+  <a href="https://www.linkedin.com/in/pradeep-pudasaini-7691b12b6/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:pradeeppudasaini49@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://x.com/pradeeppud71669">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </div>
 
----
-
-### 🖋️ Professional Summary
-I am a dedicated **Frontend Developer** with a focus on the React ecosystem. My journey at **Resimator** has seen me grow from a high-performing Intern to a Junior Developer. I specialize in bridging the gap between complex backend logic and pixel-perfect UI, currently architecting solutions for **NUMU** (a Point of Sale system).
-
-- 💼 **Current Role:** Junior Frontend Developer (Promoted March 2025).
-- 🛠️ **Expertise:** Type-safe Web Apps (Next.js) & Cross-Platform Mobile (React Native).
-- 🌱 **Mission:** To build software that is accessible, performant, and reliable.
+<br />
 
 ---
 
-### 🧠 My Coding Philosophy
-I don't just write code; I build products. My approach is centered on:
-* **User-Centricity:** Performance *is* a feature. Every millisecond counts in a POS system.
-* **Maintainability:** I write code for the developer who will read it 6 months from now.
-* **Consistency:** Leveraging design systems to ensure UI/UX uniformity across Web and Mobile.
+### 👨‍💻 Professional Profile
+I am a **Frontend Engineer** focused on building complex, data-heavy applications. My career path is defined by rapid growth—transitioning from an Intern to a **Junior Developer** at **Resimator** within 6 months. I specialize in the **React ecosystem**, writing type-safe code that bridges the gap between web dashboards and mobile hardware.
 
 ---
 
-### 💼 Professional Experience
+### 💼 Work Experience
 
 #### **Resimator** | *Junior Frontend Developer* (March 2025 – Present)
-**Project: NUMU (POS System)**
-* **Web Engineering (3 months):** Architected modular dashboard components using **Next.js** and **TypeScript**. Focused on reducing re-renders and optimizing data tables for large datasets.
-* **Mobile Engineering (2 months):** Spearheading the mobile frontend using **React Native**. Implemented offline-first capabilities and native navigation flows.
-* **Collaboration:** Working closely with backend teams to integrate RESTful APIs and ensure data integrity across platforms.
+**Focus: NUMU (Point of Sale System)**
+> *Promoted from Intern to Junior Developer due to consistent delivery of production features.*
+
+* **Web Architecture (Next.js/TS):** Developed the merchant dashboard, optimizing data tables for high-volume transaction rendering.
+* **Mobile Engineering (React Native):** Currently leading frontend features for the mobile POS, ensuring offline reliability and native performance.
+* **Workflow:** Agile development, strict code reviews, and cross-platform feature parity.
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Tech Stack & Tools
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="90"><strong>Core</strong></td>
+    <td align="center" width="90"><strong>State</strong></td>
+    <td align="center" width="90"><strong>Styling</strong></td>
+    <td align="center" width="90"><strong>Tools</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ts,react,nextjs,js" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=redux,nodejs" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tailwind,framer" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,vscode,postman,figma" />
+    </td>
+  </tr>
+</table>
 
-| **Core Stack** | **State & Logic** | **Styling & UI** | **Tools & Env** |
-| :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=react,nextjs,apple,ts,js" /> | <img src="https://skillicons.dev/icons?i=redux,vite,nodejs" /> | <img src="https://skillicons.dev/icons?i=tailwind,framer,figma" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> |
-
-**Libraries:** `Zustand` • `Jotai` • `React Hook Form` • `i18n` • `Expo` • `TanStack Query`
-
-</div>
+<p align="center">
+  <strong>Libraries:</strong> <code>Zustand</code> • <code>Jotai</code> • <code>TanStack Query</code> • <code>React Hook Form</code> • <code>Expo</code>
+</p>
 
 ---
 
-### 🌟 Featured Projects
+### 🚀 Featured Engineering
 
 | Project | Key Technical Challenge | Stack |
 | :--- | :--- | :--- |
-| **[SmartMenu](https://github.com/pradeep-coderr/smartmenu)** | Engineered real-time QR synchronization. | React Native, Expo, Zustand |
-| **[Product Catalog](https://github.com/pradeep-coderr/product-catalog)** | Implemented fluid shared-element transitions. | Next.js, Framer Motion |
-| **[Todo App](https://github.com/pradeep-coderr/todoApp)** | Designed optimistic UI updates & caching. | React, TS, TanStack Query |
+| **[SmartMenu](https://github.com/pradeep-coderr/smartmenu)** | Engineered real-time QR synchronization & offline support. | React Native, Expo |
+| **[Product Catalog](https://github.com/pradeep-coderr/product-catalog)** | Implemented shared-element transitions & SEO optimization. | Next.js, Framer Motion |
+| **[Todo App](https://github.com/pradeep-coderr/todoApp)** | Designed optimistic UI updates with aggressive caching. | React, TanStack Query |
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradeep-coderr&show_icons=true&theme=radical&count_private=true&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-coderr&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
-<br />
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep-coderr&theme=radical&hide_border=true" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pradeep-coderr&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-coderr&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="160" />
 </div>
 
 ---
 
-### ♟️ Life Beyond the IDE
-* **Strategy:** **Chess** (Tactical planning & foresight).
-* **Agility:** **Table Tennis** & **Football** (Reflexes & Teamwork).
-* **Focus:** **Swimming** (Mental clarity).
-* **Tech:** **E-sports** (Competitive gaming).
+### ♟️ Interests
+* **Strategy:** Chess
+* **Sports:** Football & Table Tennis
+* **Tech:** Competitive E-sports
 
-<p align="center">
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=pradeep-coderr.profile&left_color=gray&right_color=blue" />
-</p>
+</div>
