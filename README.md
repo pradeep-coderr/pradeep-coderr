@@ -13,8 +13,8 @@
     <a href="mailto:pradeeppudasaini49@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://twitter.com/pradeep-coderr">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <a href="https://x.com/pradeeppud71669">
+      <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
     </a>
   </p>
 </div>
