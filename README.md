@@ -1,17 +1,17 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=180&section=header&text=Pradeep%20Pudasaini&fontSize=50&animation=fadeIn&fontAlign=50" width="100%" />
   
-  <h1>👋 Hi, I’m Pradeep Pudasaini</h1>
+  <h1>👋 Hi, I'm Pradeep Pudasaini</h1>
   <h3>Junior Frontend Engineer @ Resimator</h3>
   <p><strong>Building the NUMU POS Ecosystem | React & React Native Specialist</strong></p>
 
-  <a href="https://www.linkedin.com/in/pradeep-pudasaini-7691b12b6/">
+  <a href="https://www.linkedin.com/in/pradeep-pudasaini-7691b12b6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:pradeeppudasaini49@gmail.com">
+  <a href="mailto:pradeeppudasaini49@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://x.com/pradeeppud71669">
+  <a href="https://x.com/pradeeppud71669" target="_blank">
     <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </div>
@@ -72,9 +72,9 @@ I am a **Frontend Engineer** focused on building complex, data-heavy application
 
 | Project | Key Technical Challenge | Stack |
 | :--- | :--- | :--- |
-| **[SmartMenu](https://github.com/pradeep-coderr/smartmenu)** | Engineered real-time QR synchronization & offline support. | React Native, Expo |
-| **[Product Catalog](https://github.com/pradeep-coderr/product-catalog)** | Implemented shared-element transitions & SEO optimization. | Next.js, Framer Motion |
-| **[Todo App](https://github.com/pradeep-coderr/todoApp)** | Designed optimistic UI updates with aggressive caching. | React, TanStack Query |
+| <a href="https://github.com/pradeep-coderr/smartmenu" target="_blank">**SmartMenu**</a> | Engineered real-time QR synchronization & offline support. | React Native, Expo |
+| <a href="https://github.com/pradeep-coderr/product-catalog" target="_blank">**Product Catalog**</a> | Implemented shared-element transitions & SEO optimization. | Next.js, Framer Motion |
+| <a href="https://github.com/pradeep-coderr/todoApp" target="_blank">**Todo App**</a> | Designed optimistic UI updates with aggressive caching. | React, TanStack Query |
 
 ---
 
@@ -93,5 +93,7 @@ I am a **Frontend Engineer** focused on building complex, data-heavy application
 * **Tech:** Competitive E-sports
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=pradeep-coderr.profile&left_color=gray&right_color=blue" />
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=pradeep-coderr.profile&left_color=gray&right_color=blue" target="_blank">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=pradeep-coderr.profile&left_color=gray&right_color=blue" />
+  </a>
 </div>
