@@ -1,73 +1,104 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradeep-coderr&show_icons=true&theme=radical&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep-coderr&theme=radical" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=220&section=header&text=Pradeep%20Pudasaini&fontSize=65&animation=fadeIn&fontAlign=50" />
 </p>
 
-<h1 align="center">👋 Hi, I’m Pradeep Pudasaini</h1>
-<h3 align="center">Frontend Developer | React, React Native, Next.js, TypeScript, TailwindCSS</h3>
+<div align="center">
+  <h3>🚀 Junior Frontend Engineer @ Resimator</h3>
+  <p><strong>Building scalable Web & Mobile interfaces for the NUMU POS Ecosystem.</strong></p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pradeep-pudasaini/">
-    <img src="https://img.shields.io/badge/LinkedIn-Pradeep-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  <p>
+    <a href="https://www.linkedin.com/in/pradeep-pudasaini-7691b12b6/">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:pradeeppudasaini49@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://twitter.com/pradeep-coderr">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=pradeep-coderr&theme=radical&no-frame=true&margin-w=15&row=1&column=7" />
   </a>
-  <a href="mailto:pradeeppudasaini49@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Pradeep-red?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/pradeep-coderr">
-    <img src="https://img.shields.io/badge/Twitter-@pradeep-coderr-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+### 🖋️ Professional Summary
+I am a dedicated **Frontend Developer** with a focus on the React ecosystem. My journey at **Resimator** has seen me grow from a high-performing Intern to a Junior Developer. I specialize in bridging the gap between complex backend logic and pixel-perfect UI, currently architecting solutions for **NUMU** (a Point of Sale system).
+
+- 💼 **Current Role:** Junior Frontend Developer (Promoted March 2025).
+- 🛠️ **Expertise:** Type-safe Web Apps (Next.js) & Cross-Platform Mobile (React Native).
+- 🌱 **Mission:** To build software that is accessible, performant, and reliable.
+
+---
+
+### 🧠 My Coding Philosophy
+I don't just write code; I build products. My approach is centered on:
+* **User-Centricity:** Performance *is* a feature. Every millisecond counts in a POS system.
+* **Maintainability:** I write code for the developer who will read it 6 months from now.
+* **Consistency:** Leveraging design systems to ensure UI/UX uniformity across Web and Mobile.
+
+---
+
+### 💼 Professional Experience
+
+#### **Resimator** | *Junior Frontend Developer* (March 2025 – Present)
+**Project: NUMU (POS System)**
+* **Web Engineering (3 months):** Architected modular dashboard components using **Next.js** and **TypeScript**. Focused on reducing re-renders and optimizing data tables for large datasets.
+* **Mobile Engineering (2 months):** Spearheading the mobile frontend using **React Native**. Implemented offline-first capabilities and native navigation flows.
+* **Collaboration:** Working closely with backend teams to integrate RESTful APIs and ensure data integrity across platforms.
+
+---
+
+### 🛠️ Technical Arsenal
+
+<div align="center">
+
+| **Core Stack** | **State & Logic** | **Styling & UI** | **Tools & Env** |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,apple,ts,js" /> | <img src="https://skillicons.dev/icons?i=redux,vite,nodejs" /> | <img src="https://skillicons.dev/icons?i=tailwind,framer,figma" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> |
+
+**Libraries:** `Zustand` • `Jotai` • `React Hook Form` • `i18n` • `Expo` • `TanStack Query`
+
+</div>
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Key Technical Challenge | Stack |
+| :--- | :--- | :--- |
+| **[SmartMenu](https://github.com/pradeep-coderr/smartmenu)** | Engineered real-time QR synchronization. | React Native, Expo, Zustand |
+| **[Product Catalog](https://github.com/pradeep-coderr/product-catalog)** | Implemented fluid shared-element transitions. | Next.js, Framer Motion |
+| **[Todo App](https://github.com/pradeep-coderr/todoApp)** | Designed optimistic UI updates & caching. | React, TS, TanStack Query |
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pradeep-coderr&show_icons=true&theme=radical&count_private=true&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-coderr&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+<br />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep-coderr&theme=radical&hide_border=true" alt="streak graph" />
+</div>
+
+---
+
+### ♟️ Life Beyond the IDE
+* **Strategy:** **Chess** (Tactical planning & foresight).
+* **Agility:** **Table Tennis** & **Football** (Reflexes & Teamwork).
+* **Focus:** **Swimming** (Mental clarity).
+* **Tech:** **E-sports** (Competitive gaming).
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="50" title="React" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react-native/react-native.png" width="50" title="React Native" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" width="50" title="Next.js" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" width="50" title="TypeScript" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" width="50" title="TailwindCSS" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="50" title="JavaScript" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/redux/redux.png" width="50" title="Redux" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/zustand/zustand.png" width="50" title="Zustand" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/jotai/jotai.png" width="50" title="Jotai" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tanstack-query/tanstack-query.png" width="50" title="TanStack Query" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react-hook-form/react-hook-form.png" width="50" title="React Hook Form" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/i18n/i18n.png" width="50" title="i18n" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/framer-motion/framer-motion.png" width="50" title="Framer Motion" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pradeep-coderr.profile&left_color=gray&right_color=blue" />
 </p>
-
----
-
-## 🌟 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|------------|------------|
-| [Todo App](https://github.com/pradeep-coderr/todoApp) | Task management app | React, TypeScript, Tailwind, TanStack Query |
-| [Portfolio](https://github.com/pradeep-coderr/portfolio) | Personal portfolio website | React, TypeScript, TailwindCSS |
-| [SmartMenu](https://github.com/pradeep-coderr/smartmenu) | QR-based interactive menu app | React Native, Expo, Zustand |
-| [Product Catalog](https://github.com/pradeep-coderr/product-catalog) | E-commerce catalog demo | Next.js, Zustand, Tailwind, Framer Motion |
-
----
-
-## 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-coderr&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=pradeep-coderr.profile" />
-</p>
-
----
-
-### 🔭 Currently Learning
-- Advanced **middleware & auth systems**  
-- Optimizing **React Native & Next.js performance**  
-- Animations & micro-interactions with **Framer Motion & GSAP**  
-- Real-time applications & fullstack integration  
-
----
-
